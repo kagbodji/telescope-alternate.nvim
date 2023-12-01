@@ -127,6 +127,6 @@ Example:
 # TODO
 - [ ] feat: allow always displaying the alternate via config, even if there's only one alternate file
 - [ ] feat: configurable telescope display (allow hiding of preview for example)
-- [ ] truncate filenames displayed at beginning instead of end
+- [ ] feat: truncate filenames displayed at beginning instead of end
 - [ ] fix: telescope search to filter results
 - [ ] feat: optional better regex parsing using https://rrthomas.github.io/lrexlib/manual.html
